@@ -12,12 +12,4 @@ https://segmentfault.com/
 * **stackflow**:        
 http://stackoverflow.com/
 
-```
-	<%if (admin){%>
-		<%include('admin_content')%>
-		
-		<%for (var i=0;i<list.length;i++) {%>
-		<div><%=i%>. <%=list[i].user%></div>
-		<%}%>
-	<%}%>
-```
+
